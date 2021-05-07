@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pkpcmu2008
+- 👀 I’m interested in Architecting Hardware along with actual design and verification of em.
+- 📫 Reachable at pkpcmu2008@gmail.com
